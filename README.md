@@ -1,6 +1,9 @@
 ## Hey 👋, I'm Advik Jain (Jatin Nahata)!  
   
 
+<a href="https://coderadvikjain.github.io" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/Mr_Advikjain" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -91,19 +94,6 @@ I believe in building systems that scale seamlessly, integrating intelligence wh
 
 
 ## Github Stats  
-
-<!-- Overview + Top Languages -->
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=coderadvikjain&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderadvikjain&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
 
 <!-- Streak Stats -->
 <div align="center">
