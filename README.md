@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://kaggle.com/jatinnahatajain" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <a href="https://www.facebook.com/jatinnahatajain" target="_blank">
