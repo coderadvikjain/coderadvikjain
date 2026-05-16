@@ -127,13 +127,13 @@
 
 <table><tr><td valign="top" width="50%">
   
-<img src="https://raw.githubusercontent.com/coderadvikjain/coderadvikjain/stats-output/stats.svg" height="500" alt="stats graph"  />
+<img src="https://raw.githubusercontent.com/coderadvikjain/coderadvikjain/stats-output/stats.svg" width="100%" height="250" alt="stats graph" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/coderadvikjain/coderadvikjain/languages-output/languages.svg" height="150" alt="languages graph"  />
+<img src="https://raw.githubusercontent.com/coderadvikjain/coderadvikjain/languages-output/languages.svg" width="100%" height="250" alt="languages graph" />
 
-</td></tr></table>  
+</td></tr></table>
 
 ###
 
