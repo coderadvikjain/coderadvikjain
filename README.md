@@ -36,7 +36,7 @@ I believe in building systems that scale seamlessly, integrating intelligence wh
 - 🔭 I'm currently building AI/ML applications and custom frontend projects with Next.js  
   
 
-- 🌱 I'm currently learning about AI Tools and Next.js 
+- 🌱 I'm currently learning about AI Tools and Next.js  
   
 
 - 🧠 Ask me about ML/DL, system design, database architecture, server-side development, application security, performance optimization, and PWAs  
@@ -84,9 +84,71 @@ I believe in building systems that scale seamlessly, integrating intelligence wh
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=coderadvikjain&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800" align="left" style="width: 100%" />
-  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+
+<!-- Overview + Top Languages -->
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=coderadvikjain&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderadvikjain&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+<!-- Streak Stats -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderadvikjain&hide_border=true" style="width: 100%" />
+</div>  
+
+<br/>  
+
+<!-- Contribution Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderadvikjain&theme=minimal&hide_border=true" style="width: 100%" />
+</div>  
+
+<br/>  
+
+<!-- Commits per Language + Repos per Language -->
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderadvikjain&theme=default" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderadvikjain&theme=default" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+<!-- Productive Time + Stats Summary -->
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderadvikjain&theme=default&utcOffset=5.5" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderadvikjain&theme=default" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+<!-- Profile Details -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderadvikjain&theme=default" style="width: 100%" />
+</div>  
 
 <br/>  
 
