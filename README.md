@@ -93,22 +93,7 @@ I believe in building systems that scale seamlessly, integrating intelligence wh
 <br/>  
 
 
-## Github Stats  
-
-<!-- Streak Stats -->
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderadvikjain&hide_border=true" style="width: 100%" />
-</div>  
-
-<br/>  
-
-<!-- Contribution Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderadvikjain&theme=minimal&hide_border=true" style="width: 100%" />
-</div>  
-
-<br/>  
-
+## Github Stats   
 <!-- Commits per Language + Repos per Language -->
 <table><tr><td valign="top" width="50%">
 
