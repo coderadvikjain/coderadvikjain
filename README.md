@@ -125,7 +125,7 @@
 
 ###
 
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
   
 <img src="https://raw.githubusercontent.com/coderadvikjain/coderadvikjain/stats-output/stats.svg" width="100%" height="250" alt="stats graph" />
 
