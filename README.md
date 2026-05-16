@@ -125,11 +125,11 @@
 
 ###
 
-<table><tr><td valign="top" width="70%">
+<table><tr><td valign="top" width="50%">
   
 <img src="https://raw.githubusercontent.com/coderadvikjain/coderadvikjain/stats-output/stats.svg" width="100%" height="250" alt="stats graph" />
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 <img src="https://raw.githubusercontent.com/coderadvikjain/coderadvikjain/languages-output/languages.svg" width="100%" height="250" alt="languages graph" />
 
